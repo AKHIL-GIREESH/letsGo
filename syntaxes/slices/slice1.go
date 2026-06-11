@@ -18,5 +18,6 @@ func main() {
 
 	b[0] = "X"
 	fmt.Println(a, b, names)
+	Slice2()
 
 }
